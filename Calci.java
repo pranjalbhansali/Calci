@@ -2,13 +2,13 @@ public class Calci{
 	public int add(int x, int y){
 		return x+y;
 	}
-	public int sub(int x, int y){
+	public int subtract(int x, int y){
 		return x-y;
 	}
-	public int mul(int x, int y){
+	public int multiply(int x, int y){
 		return x*y;
 	}
-	public int div(int x, int y){
+	public int division(int x, int y){
 		return x/y;
 	}
 }
